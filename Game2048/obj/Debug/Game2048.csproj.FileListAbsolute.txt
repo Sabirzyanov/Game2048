@@ -1,0 +1,7 @@
+C:\MyFolders\Programming\Rust\Game2048\Game2048\bin\Debug\Game2048.exe
+C:\MyFolders\Programming\Rust\Game2048\Game2048\bin\Debug\Game2048.pdb
+C:\MyFolders\Programming\Rust\Game2048\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+C:\MyFolders\Programming\Rust\Game2048\Game2048\obj\Debug\Game2048.csproj.SuggestedBindingRedirects.cache
+C:\MyFolders\Programming\Rust\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+C:\MyFolders\Programming\Rust\Game2048\Game2048\obj\Debug\Game2048.exe
+C:\MyFolders\Programming\Rust\Game2048\Game2048\obj\Debug\Game2048.pdb
